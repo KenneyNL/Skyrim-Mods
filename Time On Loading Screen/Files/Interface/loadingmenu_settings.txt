@@ -1,0 +1,15 @@
+// Clock settings (1 = true, 0 = false)
+&showAnalog=1&
+&showTimeString=1&
+&twelveHourClock=0&
+
+// Misc settings
+&showLevelProgressPercentage=0&
+
+// Static background (hides 3D model and hints, for potential spoilers)
+&showStaticBackground=0&
+
+// Turn on/off modules
+&showHints=1&
+&showLevelProgress=1&
+&showTime=1&

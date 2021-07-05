@@ -1,0 +1,7 @@
+// Turn on/off modules
+&showSweetSpotBar=1&
+&showArrowOnBar=1&
+&showLockpickHealth=1&
+
+// Extra options
+&showAfterSeconds=0& // Show bar after X seconds

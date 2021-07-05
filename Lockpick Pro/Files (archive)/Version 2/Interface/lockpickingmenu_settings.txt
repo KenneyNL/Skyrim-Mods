@@ -1,0 +1,3 @@
+// Turn on/off modules
+&showSweetSpotBar=1&
+&showLockpickHealth=1&

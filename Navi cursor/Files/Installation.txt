@@ -1,0 +1,14 @@
+## Installation ##
+
+Place 'cursormenu.swf' in [Skyrim installation folder]/Data/Interface
+
+## Uninstallation ##
+
+Remove 'cursormenu.swf' from [Skyrim installation folder]/Data/Interface
+
+---
+
+License: CC-BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Original mod created by Kenney (www.kenney.nl)

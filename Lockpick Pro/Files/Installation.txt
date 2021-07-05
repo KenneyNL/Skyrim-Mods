@@ -1,0 +1,15 @@
+## Installation ##
+
+1. Place 'lockpickingmenu.swf' and 'lockpickingmenu_settings.txt' in [Skyrim installation folder]/Data/Interface
+2. Change the settings in 'lockpickingmenu_settings.txt' to your liking.
+
+## Uninstallation ##
+
+Remove 'lockpickingmenu.swf' and 'lockpickingmenu_settings.txt' from [Skyrim installation folder]/Data/Interface
+
+---
+
+License: CC-BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Original mod created by Kenney (www.kenney.nl)

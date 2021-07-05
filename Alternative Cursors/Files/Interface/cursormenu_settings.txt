@@ -1,0 +1,8 @@
+// Cursor settings (1 = true, 0 = false)
+&cursor=1&
+
+// Advanced
+&flipHorizontal=0&
+&flipVertical=0&
+&showDigitalTime=0&
+&showAnalogTime=0&
